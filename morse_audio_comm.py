@@ -6,7 +6,7 @@ from morse_code_trans import print_morse
 
 
 PIN = 13
-UNIT_TIME = 0.25
+UNIT_TIME = 0.01
 
 
 def init():
@@ -37,10 +37,11 @@ def morse_word_gap():
 
 text = "hey there"  # input()
 morse_code = text2morse_trans(text)
-# print(morse_code)
+print(morse_code)
 
 
 def transmit_morse(morse_code_list):
+    init()
 
     for word in morse_code_list:
         if word == " ":
