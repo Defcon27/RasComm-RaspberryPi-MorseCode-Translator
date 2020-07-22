@@ -1,5 +1,4 @@
 from IMC_symbols import morse_code
-import time
 
 
 def text2morse_trans(text):
@@ -16,12 +15,7 @@ def text2morse_trans(text):
 
 
 def print_morse(morse_trans_list):
-    for m in morse_code:
+    for m in morse_trans_list:
         if m == " ":
             print("/", end=" ")
         print(m, end="  ")
-
-
-text = "hey there"  # input()
-morse_code = text2morse_trans(text)
-print_morse(morse_code)
