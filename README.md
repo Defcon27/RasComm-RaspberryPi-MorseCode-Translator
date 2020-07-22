@@ -12,4 +12,13 @@ RasComm is a communication device that translates plain text into Morse code (IM
 - Letters in a word are separated by a gap equal to 3 dots
 - Words are separated by a gap equal to 7 dots
 
-The application first converts the 
+### International Morse Code
+
+<img src='docs/morsecodes.png' width=40% height=40%/>
+
+### Working
+The application first converts the plain text into morse code with dots and dashes by mapping each letter or symbol to the IMC codes. Then the dots and dashes are transmitted audibily or visually with the help of piezo electric speaker or LED that is attached to the raspberry pi.
+
+## Application
+
+<img src='docs/morse.JPG' width=90% height=90%/>
