@@ -1,5 +1,5 @@
 # RasComm
-RasComm is a communication device that translates plain text into Morse code (IMC) through visually or audibly.
+RasComm is a communication device that translates plain text into Morse code (IMC) visually or audibly.
 
 ## Morse Code
 - Morse code is a way of communicating text as a series of on-off tones, lights, or clicks. The standard one used around is the International Morse Code (IMC). IMC consists of the Latin alphabet (A-Z), Arabic numerals (0-9), some punctuation, and procedural signals.
