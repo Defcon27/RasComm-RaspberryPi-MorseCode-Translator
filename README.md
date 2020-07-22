@@ -30,3 +30,11 @@ The application first converts the plain text into morse code with dots and dash
 
 
 ### Demo
+
+VISUAL
+
+<img src='docs/viz.gif' width=60% height=60%/>
+
+AUDIO
+
+<img src='docs/aud.gif' width=60% height=60%/>
