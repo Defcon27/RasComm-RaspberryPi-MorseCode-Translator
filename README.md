@@ -1,4 +1,9 @@
 # RasComm
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
+![Built with](https://img.shields.io/badge/BUILT%20WITH-RASPBERRY%20PI-critical?style=for-the-badge&logo=raspberry-pi)
+
 RasComm is a communication device that translates plain text into Morse code (IMC) visually or audibly.
 
 ## Morse Code
@@ -22,3 +27,6 @@ The application first converts the plain text into morse code with dots and dash
 ## Application
 
 <img src='docs/morse.JPG' width=80% height=80%/>
+
+
+### Demo
