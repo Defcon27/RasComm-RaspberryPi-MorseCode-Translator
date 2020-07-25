@@ -35,7 +35,6 @@ VISUAL
 
 <img src='docs/viz.gif' width=60% height=60%/>
 
-AUDIO
-
+AUDIO (Click to watch video)
 
 [![Watch the video](docs/aud.gif)](https://youtu.be/NggI7gcRs4s)
