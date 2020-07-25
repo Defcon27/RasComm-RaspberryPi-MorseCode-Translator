@@ -37,4 +37,5 @@ VISUAL
 
 AUDIO
 
-<img src='docs/aud.gif' width=60% height=60%/>
+
+[![Watch the video](docs/aud.gif)](https://youtu.be/NggI7gcRs4s)
