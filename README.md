@@ -38,3 +38,20 @@ VISUAL
 AUDIO (Click to watch video)
 
 [![Watch the video](docs/aud.gif)](https://youtu.be/NggI7gcRs4s)
+
+
+### Wanna hear some sample characters
+
+[Hear 'A'](https://soundcloud.com/saketh-sentinal/a)
+
+[Hear 'B'](https://soundcloud.com/saketh-sentinal/b)
+
+[Hear 'H'](https://soundcloud.com/saketh-sentinal/h)
+
+[Hear 'X'](https://soundcloud.com/saketh-sentinal/x)
+
+[Hear '1'](https://soundcloud.com/saketh-sentinal/1)
+
+[Hear '2'](https://soundcloud.com/saketh-sentinal/2)
+
+[Hear '9'](https://soundcloud.com/saketh-sentinal/9)
